@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 63,
-    "timeWeek": 86,
-    "timeMonth": 115,
+    "timeDay": 87,
+    "timeWeek": 73,
+    "timeMonth": 113,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2022-04-13": 19
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 150,
-    "timeWeek": 139,
-    "timeMonth": 212,
-    "timeYear": 217,
+    "timeDay": 308,
+    "timeWeek": 165,
+    "timeMonth": 214,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2022-03-08": 20
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 321,
-    "timeDay": 574,
-    "timeWeek": 367,
-    "timeMonth": 372,
+    "time": 320,
+    "timeDay": 284,
+    "timeWeek": 361,
+    "timeMonth": 373,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2022-07-08": 539,
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 10,
-    "timeWeek": 22,
-    "timeMonth": 28,
+    "timeDay": 14,
+    "timeWeek": 14,
+    "timeMonth": 26,
     "timeYear": 22,
     "dailyMinutesDown": {
       "2022-04-13": 18
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 45,
-    "timeWeek": 108,
-    "timeMonth": 106,
-    "timeYear": 122,
+    "timeDay": 152,
+    "timeWeek": 107,
+    "timeMonth": 105,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   }
 ]
